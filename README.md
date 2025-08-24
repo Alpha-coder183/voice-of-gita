@@ -3,7 +3,7 @@ Voice of Gita is a web-based platform that shares teachings of the Bhagavad Gita
 
 #🚀 How to Use
 
-Configure PHPMailer
+1)Configure PHPMailer
 
 Download PHPMailer
 .
@@ -14,13 +14,13 @@ $mail->Username = 'voiceofgitawebsite@gmail.com';   // SMTP username
 $mail->Password = 'effi mucu dhae gusx';            // SMTP password  
 
 
-Set up the Database
+2)Set up the Database
 
 Launch XAMPP and start Apache & MySQL.
 
 Open phpMyAdmin and import voiceofgita.sql to create the required database and tables.
 
-Run the Project
+3)Run the Project
 
 Place the project files inside htdocs in your XAMPP directory.
 
